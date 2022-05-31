@@ -24,7 +24,7 @@ object TempatWisataData {
 
     // menyimpan descripsi tentang tempat wisata
     private val descripsiTempatWisata = arrayOf(
-        "Kabun Raya Baturraden mengoleksi aneka tumbuhan, mulai dari mulai bunga anggrek hingga tanaman obat, paku, dan bambu. Pengunjung yang datang ke tempat ini akan disambut dengan rimbunnya pepohonan. Lokasinya ada di Jalan Pancurantujuh - Wanawisata Baturraden, Purwokerto, Dusun III Berubahan, Kemutug Lor, Baturraden, Banyumas, Jawa Tengah.\n" +
+        "Kebun Raya Baturraden mengoleksi aneka tumbuhan, mulai dari mulai bunga anggrek hingga tanaman obat, paku, dan bambu. Pengunjung yang datang ke tempat ini akan disambut dengan rimbunnya pepohonan. Lokasinya ada di Jalan Pancurantujuh - Wanawisata Baturraden, Purwokerto, Dusun III Berubahan, Kemutug Lor, Baturraden, Banyumas, Jawa Tengah.\n" +
                 "\n",
         "Buat penggemar selfie dengan latar yang Instagramable bisa mampir ke New Small World.  Di tempat ini pengunjung bisa melihat dan berfoto dengan miniatur ikon-ikon terkenal dari seluruh dunia. Harga tiket masuk per orangnya mulai dari Rp 20.000, sedangkan anak berusia di bawah tiga tahun bisa masuk secara gratis. Tempat wisata ini berlokasi di Jalan Raya Baturaden Barat Nomor 271 Desa Ketenger, Purwokerto, Jawa Tengah.  Jam bukanya mulai pukul 07.00 WIB sampai dengan 17.00 WIB setiap harinya.\n" +
                 "\n",
